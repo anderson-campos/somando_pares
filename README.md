@@ -15,13 +15,13 @@
 
 <h3>Funcionamento Interno</h3>
 <ul>
-  <li><strong>Declaração e Inicialização de Variáveis</strong>strong>: A variável soma é inicializada com zero para acumular a soma dos números pares, e i é usada para iterar de 1 a 20.</li>
-  <li><strong>Laço de Iteração (for)</strong>strong>: O laço percorre cada número inteiro de 1 a 20. Em cada iteração:
+  <li><strong>Declaração e Inicialização de Variáveis</strong>: A variável soma é inicializada com zero para acumular a soma dos números pares, e i é usada para iterar de 1 a 20.</li>
+  <li><strong>Laço de Iteração (for)</strong>: O laço percorre cada número inteiro de 1 a 20. Em cada iteração:
     <ul>
-      <li><strong>Verificação de Paridade</strong>strong>: A instrução if (i % 2 == 0) verifica se o número é par. Caso seja, o número é somado à variável soma.</li>
-      <li><strong>Impressão do Número Par</strong>strong>: O número par é exibido na saída padrão.</li>
+      <li><strong>Verificação de Paridade</strong>: A instrução if (i % 2 == 0) verifica se o número é par. Caso seja, o número é somado à variável soma.</li>
+      <li><strong>Impressão do Número Par</strong>: O número par é exibido na saída padrão.</li>
     </ul>
   </li>
-  <li><strong>Exibição da Soma Total</strong>strong>: Ao final do laço, o programa imprime a soma acumulada de todos os números pares.</li>
-  <li><strong>Mensagem de Finalização</strong>strong>: Exibe uma mensagem informando que a execução foi concluída.</li>
+  <li><strong>Exibição da Soma Total</strong>: Ao final do laço, o programa imprime a soma acumulada de todos os números pares.</li>
+  <li><strong>Mensagem de Finalização</strong>: Exibe uma mensagem informando que a execução foi concluída.</li>
 </ul>
